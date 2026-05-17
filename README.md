@@ -1,28 +1,31 @@
-# Hi, I'm Timothy! 👋
-I'm a developer passionate about **AI experimentation**, **cloud technologies**, and building practical solutions. Currently diving into AWS, MultiCloud architectures, and LLMs like LLaMA.
+# Timothy L. Richardson
 
-## What I'm Working On
-- **AI Projects**: Experimenting with LLMs ([llama.cpp](https://github.com/timothylrichardson/llama.cpp)).
-- **Cloud Skills**: Building with AWS ([cloud-synapse](https://github.com/timothylrichardson/cloud-synapse)).
-- **Java Development**: Crafting tools like [tither](https://github.com/timothylrichardson/tither).
-- **MultiCloud Journey**: Documenting progress on [Hashnode](https://hashnode.com/@yourusername) with backups here.
+**Network Infrastructure Engineer & Program Manager**  
+Trade Labs Inc · Greater San Francisco Bay Area
 
-## Connect With Me
-- [LinkedIn](https://linkedin.com/in/yourprofile) | [Medium](https://medium.com/@yourusername) | [Hashnode](https://hashnode.com/@yourusername)
+---
 
-Check out my pinned projects below for a taste of my work!
+I build practical solutions at the intersection of cloud infrastructure, AI systems, and software engineering.
 
-<!--
-**timothylrichardson/timothylrichardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Current focus:**
+- AI agent workflows with Claude Code — multi-agent dev methodology, TDD, subagent-driven development
+- LLM experimentation with [llama.cpp](https://github.com/timothylrichardson/llama.cpp) on local hardware
+- MultiCloud architecture on AWS — Kubernetes, Helm, microservices
+- Full-stack Java tooling (Spring Boot, REST, MySQL)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+| Repo | Description |
+|------|-------------|
+| [cloud-synapse](https://github.com/timothylrichardson/cloud-synapse) | Microservices deployment guide — Kubernetes, Helm, and AWS |
+| [tither](https://github.com/timothylrichardson/tither) | Spring Boot web app for managing contribution records |
+| [llama.cpp](https://github.com/timothylrichardson/llama.cpp) | Fork — local LLM inference in C/C++ |
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-tr)
+[![Email](https://img.shields.io/badge/Email-tradelabs%40protonmail.com-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:tradelabs@protonmail.com)
